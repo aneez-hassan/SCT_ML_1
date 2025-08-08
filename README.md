@@ -6,6 +6,6 @@ This project implements a linear regression model to predict house prices based 
 - Model training and evaluation
 - Visualization of actual vs predicted prices
 
-Author: Your Name  
+Author: Aneez Hassan  
 Internship: SkillCraft Technology - Machine Learning Track
 
